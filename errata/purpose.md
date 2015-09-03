@@ -2,7 +2,7 @@
 
 I wanted a space to record my more esoteric leanings.
 
-{% include "disclaimer.md" %}
+
 
 Many of these ideas are closely-related and link to one another. A blog format is too chronological and a Medium post is too final. 
 
